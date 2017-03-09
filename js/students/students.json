@@ -110,15 +110,15 @@
   },
   {
     "name":"Jason Goldfarb",
-    "project":"Capstone",
+    "project":"Lazy Buffs Driver mobile app",
     "icon":"",
-    "image":"",
+    "image":"http://fineartamerica.com/featured/lazy-buffalo-misty-green.html",
     "bioURL":"/goldfarb_jason",
     "siteURL":"",
     "githubURL":"https://github.com/jkgold",
-    "talentURL":"",
-    "linkedinURL":"",
-    "technologies":[]
+    "talentURL":"https://talent.galvanize.com/students/1121",
+    "linkedinURL":"https://www.linkedin.com/feed/",
+    "technologies":["React", "React-Native", "Javascript","ES6","Node"]
   },
   {
     "name":"Matthew Gordon",
